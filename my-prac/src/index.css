@@ -1,0 +1,14 @@
+html , body ,#root{
+  width: 100%;
+  height: 100%;
+}
+ * {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+ }
+#root{
+  background-image: url('assets/windrader-wind-power-fichtelberg-wind-park.jpg');
+  background-position: center;
+  background-size: cover;
+}
